@@ -1,0 +1,3 @@
+Method,Features per image,Correct predictions,Test images,Accuracy (%)
+Raw-pixel nearest neighbor,10304,117,120,97.5
+PCA nearest neighbor,92,117,120,97.5

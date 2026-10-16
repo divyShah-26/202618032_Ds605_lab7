@@ -1,0 +1,22 @@
+Components,Variance retained (%),Method,Accuracy (%)
+20,70.55,PCA 1-NN baseline,95.0
+20,70.55,KNN (k=3),88.33
+20,70.55,Logistic Regression,90.83
+20,70.55,SVM (RBF),93.33
+40,80.04,PCA 1-NN baseline,97.5
+40,80.04,KNN (k=3),90.0
+40,80.04,Logistic Regression,95.83
+40,80.04,SVM (RBF),95.83
+60,85.14,PCA 1-NN baseline,97.5
+60,85.14,KNN (k=3),87.5
+60,85.14,Logistic Regression,95.0
+60,85.14,SVM (RBF),95.83
+92,90.04,PCA 1-NN baseline,97.5
+92,90.04,KNN (k=3),75.0
+92,90.04,Logistic Regression,95.0
+92,90.04,SVM (RBF),93.33
+120,92.86,PCA 1-NN baseline,98.33
+120,92.86,KNN (k=3),70.83
+120,92.86,Logistic Regression,95.0
+120,92.86,SVM (RBF),92.5
+10304,,Raw-pixel 1-NN baseline,97.5

@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating system
+.DS_Store
+
+# Local dataset
+data/
